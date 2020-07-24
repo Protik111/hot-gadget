@@ -29,3 +29,27 @@
     color: orange;
     text-decoration: none;
 }
+.img-all{
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+    padding: 50px 30px;
+
+}
+#img1{
+    margin-right: 40px;
+}
+.img2{
+    margin-bottom: 15px;
+
+}
+.img3{
+    margin-top: 15px;
+}
+hr{
+    border: 4px solid #E67E22;
+    width: 102px;
+    border-radius: 5px;
+}
+.text{
+    text-align: center;
+}
