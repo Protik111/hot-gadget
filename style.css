@@ -6,4 +6,26 @@
     color: white;
     padding: 8px 14px;
     border-radius: 10px;
+    cursor: pointer;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+    padding: 40px;
+}
+.card-body{
+    margin: auto;
+}
+.cd-part{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.anchor-see{
+    color: orange;
+}
+.anchor-see:hover{
+    color: orange;
+    text-decoration: none;
 }
